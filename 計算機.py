@@ -1,4 +1,5 @@
-# 取得數字
+
+print("hello!") 
 num1=float (input("請輸入數字1:"))
 num2=float (input("請輸入數字2:"))
 加法=(num1 + num2)
